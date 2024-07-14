@@ -122,3 +122,12 @@ body {
 .social-reach-container .reach-media .reach-title {
     font-size: 58px;
 }
+
+/* Footer Section */
+.footer-container {
+    padding: 70px 15px;
+}
+.footer-container .para {
+    color: #fff;
+    margin-top: 10px;
+}
